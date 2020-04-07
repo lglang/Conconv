@@ -1,0 +1,13 @@
+Package: conconv
+Title: A Conversion Function for Determining Working Stocks and Concentrations
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Lindsay",
+           family = "Glang",
+           role = "cre",
+           email = "lindsay.glang@gmail.com",)
+Description: Currently contains two functions - one for converting from ng/uL to nM, given basepairs, and one to find a volume of a stock soliution given target concentration and volume.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
